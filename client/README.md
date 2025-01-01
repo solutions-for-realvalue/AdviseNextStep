@@ -13,6 +13,7 @@ This is the frontend application for **AdviseNextStep**, a React-based interface
   - [`npm run build`](#npm-run-build)
   - [`npm run eject`](#npm-run-eject)
 - [Learn More](#-learn-more)
+- [Contact](#-contact)
 
 ---
 
@@ -48,7 +49,7 @@ To set up and run the **AdviseNextStep Client**, follow these steps:
 
 ---
 
-## 🛠️ Available Scripts
+## 🔨 Available Scripts
 
 In the project directory, you can run the following scripts:
 
