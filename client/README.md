@@ -6,13 +6,13 @@ This is the frontend application for **AdviseNextStep**, a React-based interface
 
 ## 📖 Table of Contents
 
-- [Getting Started](#getting-started)
-- [Available Scripts](#available-scripts)
+- [Getting Started](#-getting-started)
+- [Available Scripts](#-available-scripts)
   - [`npm start`](#npm-start)
   - [`npm test`](#npm-test)
   - [`npm run build`](#npm-run-build)
   - [`npm run eject`](#npm-run-eject)
-- [Learn More](#learn-more)
+- [Learn More](#-learn-more)
 
 ---
 
