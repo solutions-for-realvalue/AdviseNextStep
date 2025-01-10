@@ -139,9 +139,8 @@ This project is licensed under the [MIT License][mit-license]. See the LICENSE.m
 ## 📧 Contact
 
 For any questions about this project, please contact me via:
-
-- **GitHub**: [naturuplift](https://github.com/naturuplift)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/arnaldo-sepulveda-7b321022/)
+- **Email:** natureuplift@protonmail.com
+- [LinkedIn](https://www.linkedin.com/in/arnaldo-sepulveda)
 
 ---
 
