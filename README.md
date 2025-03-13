@@ -140,7 +140,6 @@ This project is licensed under the [MIT License][mit-license]. See the LICENSE.m
 
 For any questions about this project, please contact me via:
 - **Email:** natureuplift@protonmail.com
-- [LinkedIn](https://www.linkedin.com/in/arnaldo-sepulveda)
 
 ---
 
